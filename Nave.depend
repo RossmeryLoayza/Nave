@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1431335119 source:c:\users\rossmery\desktop\nave\main.cpp
+	<windows.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<ctime>
+	<time.h>
+	<string>
+	<queue>
+	"Enemie.h"
+	"GL/glut.h"
+
+976692172 c:\users\rossmery\desktop\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1431326550 source:c:\users\rossmery\desktop\nave\enemie.cpp
+	"Enemie.h"
+
+1431325628 c:\users\rossmery\desktop\nave\enemie.h
+	<windows.h>
+	"GL/glut.h"
+
